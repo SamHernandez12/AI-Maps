@@ -1,0 +1,481 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6496,41.8696 ]
+    },
+    "properties": {
+    "School":"The University of Illinois at Chicago",
+    "City":"Chicago",
+    "State":"Illinois",
+    "Acronym":"UIC",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"Yes",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"Yes",
+    "Statistic Courses":"Yes ",
+    "Category":"Public Health",
+    "URL Link":"https://publichealth.uic.edu/academics/public-health-degrees/master-public-health/environmental-occupational-health-mph/",
+    "Date Visited":"01/12/21",
+    "Degree Program Names":"Master of Public Health (MPH) degree in Environmental and Occupational Health Sciences",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4032,29.7032 ]
+    },
+    "properties": {
+    "School":"The University of Texas Health Science Center at Houston",
+    "City":"Houston",
+    "State":"Texas",
+    "Acronym":"UTH",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes ",
+    "Category":"Public Health",
+    "URL Link":"https://sph.uth.edu/research/centers/swcoeh/academic-programs/",
+    "Date Visited":"02/10/21",
+    "Degree Program Names":"Industrial Hygiene, Occupational & Environmental Medicine Residency, Occupational Epidemiology, ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8421,40.7649 ]
+    },
+    "properties": {
+    "School":"University of Utah",
+    "City":"Salt Lake City ",
+    "State":"Utah",
+    "Acronym":"UoU",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"Yes",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"No",
+    "Category":"Occupational Safety and Health",
+    "URL Link":"https://advising.utah.edu/majors/quick-look/occupational-safety-health.php",
+    "Date Visited":"02/17/21",
+    "Degree Program Names":"OCCUPATIONAL SAFETY AND HEALTH (MINOR)",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.504,38.0307 ]
+    },
+    "properties": {
+    "School":"University of Kentucky",
+    "City":"Lexington",
+    "State":"Kentucky",
+    "Acronym":"UKY",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"No",
+    "Category":"Safety, Security and Emergency Management",
+    "URL Link":"http://www.uky.edu/",
+    "Date Visited":"02/18/21",
+    "Degree Program Names":"Safety, Security and Emergency Management with a concentration in Occupational Safety ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2585,37.8719 ]
+    },
+    "properties": {
+    "School":"University of California, Berkeley",
+    "City":"Berkeley",
+    "State":"California",
+    "Acronym":"UCB",
+    "Associates":"Yes",
+    "Bachelors":"Yes",
+    "Masters":"Yes",
+    "Doctoral":"Yes",
+    "Minor":"Yes",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"Yes",
+    "Statistic Courses":"Yes",
+    "Category":"Occupational & Environmental Health",
+    "URL Link":"https://www.coeh.berkeley.edu/niosh-erc",
+    "Date Visited":"02/24/2021",
+    "Degree Program Names":"Occupational and Environmental Health Nursing Program, Occupational and Environmental Medical Residency Program, Occupational and Environmental Epidemiology Program, Industrial Hygiene Program, Ergonomics Program\n",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4452,34.0689 ]
+    },
+    "properties": {
+    "School":"University of California, Los Angeles",
+    "City":"Los Angeles ",
+    "State":"California",
+    "Acronym":"UCLA",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"Yes",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Occupational Safety",
+    "URL Link":"https://erc.ucla.edu/",
+    "Date Visited":"02/24/2021",
+    "Degree Program Names":"Industrial Hygiene, Occupational and Environmental Health Nursing Program, Occupational and Environmental Medicine Program",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.515,39.1329 ]
+    },
+    "properties": {
+    "School":"University of Cincinnati",
+    "City":"Cincinnati",
+    "State":"Ohio",
+    "Acronym":"UC",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"Yes",
+    "Doctoral":"Yes",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Medicine",
+    "URL Link":"https://ceas.uc.edu/research/centers-labs/center-for-occupational-safety-and-health-engineering.html",
+    "Date Visited":"02/24/2021",
+    "Degree Program Names":"PhD in Occupational Health Nursing, Occupational Medicine Residency (OMR), Occupational Safety and Health Engineering (OSHE) Program",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9926,39.7431 ]
+    },
+    "properties": {
+    "School":"University of Colorado Denver",
+    "City":"Denver",
+    "State":"Colorado",
+    "Acronym":"UCD",
+    "Associates":"No",
+    "Bachelors":"Yes",
+    "Masters":"Yes",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Environmental and Occupational Health",
+    "URL Link":"https://coloradosph.cuanschutz.edu/education/departments/environmental-occupational-health",
+    "Date Visited":"02/24/2021",
+    "Degree Program Names":"Environmental & Occupational Health",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1167,42.377 ]
+    },
+    "properties": {
+    "School":"Harvard University",
+    "City":"Cambridge",
+    "State":"Massachusetts",
+    "Acronym":"HU",
+    "Associates":"No",
+    "Bachelors":"Yes",
+    "Masters":"Yes",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"Yes",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Public Health",
+    "URL Link":"https://www.hsph.harvard.edu/erc/updated-erc-programs/\n",
+    "Date Visited":"02/25/2021",
+    "Degree Program Names":"Occupational & Environmental Medicine Residency Program, Doctoral Program in Occupational Health, Master of Science in Occupational Hygiene program\n",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9533,40.7898 ]
+    },
+    "properties": {
+    "School":"Icahn Mount Sinai School of Medicine",
+    "City":"New York",
+    "State":"New York",
+    "Acronym":"IMSSM",
+    "Associates":"Yes",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"Yes",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Occupational Health",
+    "URL Link":"https://icahn.mssm.edu/education/residencies-fellowships/list/msh-occupational-environmental-residency",
+    "Date Visited":"02/25/2021",
+    "Degree Program Names":"Occupational Medicine Residency - The Mount Sinai Hospital",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.555,41.6627 ]
+    },
+    "properties": {
+    "School":"Unviersity of Iowa",
+    "City":"Iowa City",
+    "State":"Iowa",
+    "Acronym":"UIOWA",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"Yes",
+    "Doctoral":"Yes",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Occupational & Environmental Health",
+    "URL Link":"https://grad.admissions.uiowa.edu/academics/occupational-environmental-health-ms-or-phd",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"MPH in Occupational and Environmental Health; PhD in Occupational and Environmental Health; MS in Occupational and Environmental Health",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7382,42.278 ]
+    },
+    "properties": {
+    "School":"University of Michigan",
+    "City":"Ann Arbor",
+    "State":"Michigan",
+    "Acronym":"UMICH",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Health Sciences",
+    "URL Link":"https://cohse.umich.edu/academics-and-funding/programs/",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"Industrial Hygiene (IH), Occupational Safety Engineering and Ergonomics (OSE), Occupational Epidemiology (OE), Occupational Health Nursing (OHN) ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2277,44.974 ]
+    },
+    "properties": {
+    "School":"University of Minnesota",
+    "City":"Minneapolis",
+    "State":"Minnesota",
+    "Acronym":"UMN",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Occupational Health and Safety",
+    "URL Link":"http://www.mcohs.umn.edu/",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"Industrial Hygiene (IH), Occupational and Environmental Health Nursing (OEHN), Occupational and Environmental Medicine (OEM), Occupational Health Services Research and Policy (OHSRP), Occupational Injury Prevention (OIP),  Occupational and Environmental Epidemiology (OEE) ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.0469,35.9049 ]
+    },
+    "properties": {
+    "School":"University of North Carolina at Chapel Hill",
+    "City":"Chapel Hill",
+    "State":"North Carolina",
+    "Acronym":"UNC",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Public Health",
+    "URL Link":"https://health.usf.edu/publichealth/apply/graduate-admissions",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"MPH with a Concentration in Health, Safety & Environment, MSPH with in Concentration in Occupational Exposure Science (formerly Industrial Hygiene), PhD in Public Health with a concentration in Environmental and Occupational Health ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4139,28.0587 ]
+    },
+    "properties": {
+    "School":"University of South Florida",
+    "City":"Tampa ",
+    "State":"Flordia",
+    "Acronym":"USF",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"No",
+    "Doctoral":"No",
+    "Minor":"Yes",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"No",
+    "Category":"Environmental Health ",
+    "URL Link":"https://catalog.usf.edu/preview_program.php?catoid=13&poid=4581",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"Environmental Health Minor",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8421,40.7649 ]
+    },
+    "properties": {
+    "School":"University of Utah",
+    "City":"Salt Lake City",
+    "State":"Utah",
+    "Acronym":"UTAH",
+    "Associates":"No",
+    "Bachelors":"No",
+    "Masters":"Yes",
+    "Doctoral":"Yes",
+    "Minor":"Yes",
+    "Certificate":"Yes",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"No",
+    "Category":"Occupational Health",
+    "URL Link":"https://medicine.utah.edu/rmcoeh/education-degrees/",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"Occupational Safety and Health Minor; Master of Occupational Health; Master of Science in Occupational Health; Doctor of Philosophy in Occupational & Environmental Heath; Graduate Certificate of Occupational Safety and Health ",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3035,47.6553 ]
+    },
+    "properties": {
+    "School":"University of Washington",
+    "City":"Seattle",
+    "State":"Washington",
+    "Acronym":"UW",
+    "Associates":"No",
+    "Bachelors":"Yes",
+    "Masters":"Yes",
+    "Doctoral":"No",
+    "Minor":"No",
+    "Certificate":"No",
+    "AI":"No",
+    "CS":"No",
+    "Statistic Courses":"Yes",
+    "Category":"Environmental & Occupational Health Sciences",
+    "URL Link":"https://deohs.washington.edu/",
+    "Date Visited":"02/25/21",
+    "Degree Program Names":"Bachelor of Science in Environmental Health; Masters of Public Health in Environmental and Occupational Health",
+    "ERC":"Yes",
+    "AI Course":"No"
+    }
+  }
+]
+}
